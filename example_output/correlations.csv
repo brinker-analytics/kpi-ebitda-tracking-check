@@ -1,0 +1,7 @@
+kpi,goal,grain,points,correlation,earlier_half,earlier_points,earlier_correlation,later_half,later_points,later_correlation
+MER,ebitda,daily,730,0.730,2024-11-01 to 2025-10-31,365,0.742,2025-11-01 to 2026-10-31,365,0.741
+MER,ebitda,weekly,103,0.508,2024-11-04 to 2025-10-20,51,0.599,2025-10-27 to 2026-10-19,52,0.472
+MER,ebitda,monthly,24,0.451,2024-11 to 2025-10,12,0.589,2025-11 to 2026-10,12,0.493
+platform_ROAS,ebitda,daily,730,0.360,2024-11-01 to 2025-10-31,365,0.614,2025-11-01 to 2026-10-31,365,0.294
+platform_ROAS,ebitda,weekly,103,-0.044,2024-11-04 to 2025-10-20,51,0.487,2025-10-27 to 2026-10-19,52,-0.204
+platform_ROAS,ebitda,monthly,24,-0.090,2024-11 to 2025-10,12,0.490,2025-11 to 2026-10,12,-0.247
