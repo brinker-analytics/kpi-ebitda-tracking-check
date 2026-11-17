@@ -61,6 +61,8 @@ A correlation shows two numbers moving together. It can't tell you whether one c
 
 If you want to know which number your team should steer by, send me a note and we'll talk it through: [Get in touch](https://brinkeranalytics.com/contact).
 
+A supporting number can look healthy while the profit goal does not. For many brands, EBITDA sits at the top of the ladder, and MER is a rung under it. [Can One Number Run Your Whole Business?](https://brinkeranalytics.com/guides/can-one-number-run-your-whole-business) is how to give each number a job on the ladder.
+
 ## Free reading on brinkeranalytics.com
 
 - [A marketing reporting system is not a dashboard](https://brinkeranalytics.com/insights/reporting-system-not-dashboard)
